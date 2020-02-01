@@ -29,7 +29,7 @@ services:
         public: true
         tags: ['controller.service_arguments']
         
-    BcpBundle\Listener\ExceptionListener:
+    AppBundle\Listener\ExceptionListener:
         tags:
             - { name: kernel.event_listener, event: kernel.exception }
 

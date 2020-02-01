@@ -1,5 +1,5 @@
 bcp:
-    resource: "@BcpBundle/Controller/"
+    resource: "@AppBundle/Controller/"
     type:     annotation
     prefix:   /
 
@@ -9,3 +9,6 @@ app:
     
 login_check:
     path: /login_check
+
+fos_user:
+    resource: "@FOSUserBundle/Resources/config/routing/all.xml"
