@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/BcpBundle/Controller/EtablissementController.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>28</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/erick/bcp.dev/src/BcpBundle/Repository/EtablissementRepository.php</file>
+            <file>file:/var/www/erick/bcp.dev/src/BcpBundle/Controller/DefaultController.php</file>
+            <file>file:/var/www/erick/bcp.dev/app/Resources/views/default/header.html.twig</file>
+            <file>file:/var/www/erick/bcp.dev/src/BcpBundle/Resources/views/Etablissement/fiche.html.twig</file>
+            <file>file:/var/www/erick/bcp.dev/src/BcpBundle/Resources/views/Etablissement/etablissement.html.twig</file>
+            <file>file:/var/www/erick/bcp.dev/src/BcpBundle/Manager/ServiceManager.php</file>
+            <file>file:/var/www/erick/bcp.dev/src/BcpBundle/Entity/Photo.php</file>
+        </group>
+    </open-files>
+</project-private>

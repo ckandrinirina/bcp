@@ -1,0 +1,11 @@
+bcp:
+    resource: "@BcpBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
+    
+login_check:
+    path: /login_check

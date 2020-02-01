@@ -1,0 +1,4 @@
+services:
+    service.manager:
+        class: BcpBundle\Manager\ServiceManager
+        arguments: ['@service_container']
