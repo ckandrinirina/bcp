@@ -87,7 +87,7 @@ class DefaultController extends CommonController
         $aoEtablissement = $this->oManager->generateStarEtablissementsOfArray([$oEtablissement]);
         $oEtablissement->setViewers($oEtablissement->getViewers() + 1);
         $this->oManager->crudObject($oEtablissement, 'update');
-        return $this->render('@App/Etablissement/fiche.html.twig', ['etablissement' => $aoEtablissement[0]]);
+        return $this->render('@App-/Etablissement/fiche.html.twig', ['etablissement' => $aoEtablissement[0]]);
     }
     
     /**
